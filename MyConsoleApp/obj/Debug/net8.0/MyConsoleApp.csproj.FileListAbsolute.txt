@@ -1,0 +1,15 @@
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+G:\Study\MyFirstGit\TestRepo\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
